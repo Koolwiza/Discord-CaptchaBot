@@ -135,4 +135,4 @@ targeted attacks using automated user accounts.
 
 
 
-client.login('Nzc2MjM1NTAyNjMzNzQ2NDYz.X6x7pQ.F3OyoTQri6F3uqtfq0Q6Sz_Gy_w')
+client.login('your-token-here')
